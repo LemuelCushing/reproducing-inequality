@@ -34,6 +34,7 @@
     <script defer src="js/material.min.js"></script>
     <script src="./js/anchorme.js"></script>
     <script src="./js/script.js"></script>
+    <script src="js/screenfull.min.js"></script>
     <link href="css/style.css" rel="stylesheet">
 </head>
 
@@ -53,6 +54,13 @@
         // - https://github.com/hakimel/reveal.js#configuration
         // - https://github.com/hakimel/reveal.js#dependencies
         Reveal.initialize({
+            keyboard: {
+                70: function() {
+                    screenfull.toggle()
+                }
+            },
+            slideNumber: true,
+            showSlideNumber: 'print',
             dependencies: [{
                 src: 'plugin/markdown/marked.js'
             }, {
