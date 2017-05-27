@@ -1,32 +1,30 @@
-## Structures, Networks And Organizational Culture In The Reproduction Of Inequality 
+## Structures, Networks And Organizational Culture <br> In The Reproduction Of Inequality 
 
 ---
 
-<h3>How to traverse this presentation</h3>
+### Minority Vulnerability in Privileged Occupations: Why Do African American Financial Advisors Earn Less Than Whites in a Large Financial Services Firm?
 
-Please use <i class="fa fa-chrome" style="color:#FFFFFF;"></i> <code>Chrome</code> or <i class="fa fa-firefox" style="color:#FFFFFF"></i> <code>Firefox</code>
+#### Bielby, William (2012) **Annals of the American Academy of Political and Social Sciences** 639 (1): 12-32
 
-The presentation is best viewed in fullscreen -<br> you can go to fullscreen by pressing <button id="button" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"> here </button>.
+---
 
-Press <code style="font-family: keysFont; font-size: 200%;">f</code> to toggle **f**ullscreen at any time<br>
+### Double-Edged Exposure: Social Networking Sites, Job Searching and New Barriers to Employment
+#### Sharone Ofer (2013) MIT Sloan School of Management. 
 
-#### press <code>↓</code> now
---
+---
 
-<h3>How to traverse this presentation</h3>
+### White normativity: The Cultural Dimensions of Whiteness in a Racially Diverse LGBT Organization
 
-Every horizontal section is a broad subject<br>
-<code>←</code> and <code>→</code> arrows move between them<br>
-Use the <code>↑</code> and <code>↓</code> to travel deeper into a subject<br>
---
-<h3>How to traverse this presentation</h3>
+#### Ward, J. (2008) **Sociological Perspectives** 51(3): 563-586.
 
-Press <span  style="font-family: keysFont; font-size: 200%;">o</span> to see an **o**verview of the entire presentation.
+---
 
-Citations are indicated with a <sup class="tp" title="Uminski, Sigmund H. “Two Polish Confederates.” Polish American Studies 23, no. 2 (1966): 65–81. http://www.jstor.org/stable/20147720.">[№]</sup> and can be viewed by mousing over them.
---
-<h3>How to traverse this presentation</h3>
+### Do Women Choose Different Jobs from Men? Mechanisms of Application Segregation in the Market for Managerial Workers
 
-The side-menu can be opened by clicking the <i class="fa fa-bars" style="color:#a23"></i> button on the bottom left.
+#### Barbulescu Roxana and Matthew Bidwell (2013) **Organization Science** 24(3):737-756
 
-From there, you can navigate the slide or go the <i class='fa fa-book'></i> **Bibliography** or the <i class="fa fa-file-pdf-o" aria-hidden="true"></i> **printable version** of this presentation.  
+---
+
+### Women and Malls: The Rise of Minority Women Employment Revisited
+
+#### Marantz, Erez, Alexandra Kalev and Noah Lewin Epstein (2014) **Social Forces** 93(2):595-622
