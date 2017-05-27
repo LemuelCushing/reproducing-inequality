@@ -1,4 +1,4 @@
-## Structures, networks and organizational culture in reproducing inequality
+## Structures, networks and organizational culture in the reproduction of inequality 
 
 A presentation summary of the following papers:
 
