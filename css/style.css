@@ -9,3 +9,28 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
     font-size: 50% !important;
 }
+
+img[src$='#cnt'] {
+    border: 2px double darkred !important;
+    z-index: 100 !important;
+    position: absolute !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    left: 0 !important;
+    right: 0 !important;
+    /*bottom: 0px !important;*/
+    line-height: 50% !important;
+}
+
+img[src$='#invert'] {
+    filter: invert(100%);
+}
+
+img[src$='#cnt2'] {
+    max-width: 85% !important;
+    max-height: 85% !important;
+    margin: 0px 0px !important;
+    background: none !important;
+    border: none !important;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0.15) !important;
+}

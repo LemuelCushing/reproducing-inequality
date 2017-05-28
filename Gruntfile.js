@@ -1,5 +1,5 @@
 /* global module:false */
-module.exports = function(grunt) {
+module.exports = function (grunt) {
     var port = grunt.option('port') || 8000;
     var root = grunt.option('root') || '.';
 
@@ -90,13 +90,26 @@ module.exports = function(grunt) {
         },
 
         connect: {
-            server: {
-                options: {
-                    hostname: 'localhost',
-                    port: port,
-                    base: root,
-                    livereload: true,
-                    open: true
+            server: function () {
+                if (process.platform == "win32") {
+                    return {
+                        options: {
+                            hostname: 'localhost',
+                            port: port,
+                            base: root,
+                            livereload: true,
+                            open: true
+                        }
+                    }
+                } else {
+                    return {
+                        options: {
+                            port: port,
+                            base: root,
+                            livereload: true,
+                            open: true
+                        }
+                    }
                 }
             },
 
@@ -129,7 +142,7 @@ module.exports = function(grunt) {
                 tasks: 'css-themes'
             },
             css: {
-                files: ['css/reveal.scss'],
+                files: ['css/reveal.scss', 'css/style.css'],
                 tasks: 'css-core'
             },
             html: {

@@ -11,15 +11,14 @@
 --
 ### The Significance of Race 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
---
+![](Pictures/wilson.png) <!--.element: style=" float: left;left:-50px;z-index: 100;position: relative;"-->
+**William Julius Wilson** 
 
-Nidahnob cesimil wef jenegpi vahufjet kifaozo biwa unjo vizsuj tuviftu juzeze alo. Ub bajnutfe viadudu jinaoju londitug momoruk iv uwakapvel nalov iz alepinwo hu epeerowub hasat vofo dedivpu kihmakoj. So nimhu jezmo omufigu nuoda adudav buhuzvoc rosuhu acofihhi omha jummo wejalor kosob kavafjil afewucgah ku fugit coifohi. Atji akdonic rep go woguwwe ni co cih leati oplirok lolibed wejod se foowira uw necellaj.
+_The Declining Significance of Race_ <br> (1978)
+![](Pictures/WilsonRace.png) <!--.element: style="float: right;right:-50px;z-index: 100;position: relative;"-->
+
+
 
 ---
 
