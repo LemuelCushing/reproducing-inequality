@@ -26,6 +26,14 @@
 
     <!--Personal customizations-->
     <!--<script src="js/livereload/livereload.js"></script>-->
+    <script src="https://use.typekit.net/zpm6lmq.js"></script>
+    <script>
+        try {
+            Typekit.load({
+                async: true
+            });
+        } catch (e) {}
+    </script>
     <script src="js/jquery-3.2.1.min.js"></script>
     <link rel="stylesheet" href="css/tippy.css" />
     <link href="css/font-awesome.min.css" rel="stylesheet">
@@ -35,6 +43,7 @@
     <link rel="stylesheet" href="css/material.red-deep_orange.min.css" />
     <script defer src="js/material.min.js"></script>
     <script src="./js/anchorme.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script src="./js/script.js"></script>
     <script src="js/screenfull.min.js"></script>
     <link href="css/style.css" rel="stylesheet">
@@ -43,7 +52,7 @@
 <body>
     <div class="reveal">
         <div class="slides">
-            <section data-markdown="main.md" data-separator="^---" data-separator-vertical="^--">
+            <section data-markdown="main.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^VVV">
             </section>
         </div>
     </div>
@@ -125,6 +134,10 @@
                     size: 'big',
                     hideDelay: 1000,
 
+                })
+                d3.csv('../data/bielby.csv', function (data) {
+                    var columns = ['year', 'Non African American FAs', 'African American FAs']
+                    tabulate(data, columns)
                 })
                 // Tipped.create('.tp', {
                 //     size: 'huge',

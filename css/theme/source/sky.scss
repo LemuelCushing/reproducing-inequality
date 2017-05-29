@@ -15,11 +15,13 @@
 // Include theme-specific fonts
 @import url(https://fonts.googleapis.com/css?family=Libre+Baskerville|Playfair+Display|Open+Sans:400italic,700italic,400,700|Quicksand:400,700,400italic,700italic);
 @import url(https://fonts.googleapis.com/css?family=Poiret+One|Simonetta|Tinos);
+@import url(http://spratt.github.io/Computer-Modern/cmserif.css);
 
 // Override theme settings (see ../template/settings.scss)
-$mainFont: 'Open Sans', sans-serif;
+$mainFont: 'adobe-garamond-pro', sans-serif;
 $mainColor: #333;
-$headingFont: 'Simonetta', serif;
+// $headingFont: 'Simonetta', serif;
+$headingFont: "adobe-caslon-pro", serif;
 $headingColor: #43373E;
 // $headingLetterSpacing: -0.08em;
 $headingTextShadow: 0px 1px 3px #645A5E;
@@ -51,7 +53,8 @@ $color5: rgba(78, 69, 64, 1);
 // Background generator
 @mixin bodyBackground() {
 	// @include radial-gradient( #add9e4, #f7fbfc );
-	@include vertical-gradient( #77A0A9, #B4CBD0 );
+	// @include vertical-gradient( #77A0A9, #B4CBD0 );
+	@include vertical-gradient( #E8FBFF, #FFF );
 	// @include radial-gradient( #136a8a, #267871);
 }
 

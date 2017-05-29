@@ -34,3 +34,29 @@ img[src$='#cnt2'] {
     border: none !important;
     box-shadow: 0 0 0px rgba(0, 0, 0, 0.15) !important;
 }
+
+
+.slide-background.text-bg-bw.present {
+    -webkit-filter: sepia(1) hue-rotate(2deg) brightness(.5);
+    filter: sepia(1) hue-rotate(2deg) brightness(.5);
+    /*filter: opacity(10%);
+    background-position-y: 10%;*/
+}
+
+.slide-background.no-print.present {
+    -webkit-filter: sepia(1) hue-rotate(2deg) brightness(.2);
+    filter: sepia(1) hue-rotate(2deg) brightness(.2);
+}
+section.text-bg-txt.present{
+    /*color: white;*/
+}
+.slide-background.text-bg-txt.present {
+    -webkit-filter: sepia(1) hue-rotate(2deg) brightness(.8) blur(1px);
+    filter: sepia(1) hue-rotate(20deg) brightness(.8) blur(1px) opacity(20%);
+    background-position: 50% 20% !important;
+}
+
+.slide-background.text-bg-clr.present {
+    -webkit-filter: sepia(0.3) brightness(.5);
+    filter: sepia(0.3) brightness(.5);
+}

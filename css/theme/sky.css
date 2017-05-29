@@ -5,6 +5,7 @@
  */
 @import url(https://fonts.googleapis.com/css?family=Libre+Baskerville|Playfair+Display|Open+Sans:400italic,700italic,400,700|Quicksand:400,700,400italic,700italic);
 @import url(https://fonts.googleapis.com/css?family=Poiret+One|Simonetta|Tinos);
+@import url(http://spratt.github.io/Computer-Modern/cmserif.css);
 .reveal a {
   line-height: 1.3em; }
 
@@ -20,17 +21,17 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #77A0A9;
-  background: -moz-linear-gradient(top, #77A0A9 0%, #B4CBD0 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #77A0A9), color-stop(100%, #B4CBD0));
-  background: -webkit-linear-gradient(top, #77A0A9 0%, #B4CBD0 100%);
-  background: -o-linear-gradient(top, #77A0A9 0%, #B4CBD0 100%);
-  background: -ms-linear-gradient(top, #77A0A9 0%, #B4CBD0 100%);
-  background: linear-gradient(top, #77A0A9 0%, #B4CBD0 100%);
+  background: #E8FBFF;
+  background: -moz-linear-gradient(top, #E8FBFF 0%, #FFF 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #E8FBFF), color-stop(100%, #FFF));
+  background: -webkit-linear-gradient(top, #E8FBFF 0%, #FFF 100%);
+  background: -o-linear-gradient(top, #E8FBFF 0%, #FFF 100%);
+  background: -ms-linear-gradient(top, #E8FBFF 0%, #FFF 100%);
+  background: linear-gradient(top, #E8FBFF 0%, #FFF 100%);
   background-color: #f7fbfc; }
 
 .reveal {
-  font-family: "Open Sans", sans-serif;
+  font-family: "adobe-garamond-pro", sans-serif;
   font-size: 40px;
   font-weight: normal;
   color: #333; }
@@ -61,7 +62,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #43373E;
-  font-family: "Simonetta", serif;
+  font-family: "adobe-caslon-pro", serif;
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: normal;
