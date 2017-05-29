@@ -50,6 +50,18 @@ img[src$='#cnt2'] {
 section.text-bg-bw.present h3{
     color: white !important;
 }
+section.text-bg-bw.present h2{
+    color: white !important;
+}
+section.text-bg-bw.present h4{
+    color: white !important;
+}
+section.text-bg-bw.present h5{
+    color: white !important;
+}
+section.text-bg-bw.present {
+    color: white !important;
+}
 .slide-background.text-bg-txt.present {
     -webkit-filter: sepia(1) hue-rotate(2deg) brightness(.8) blur(1px);
     filter: sepia(1) hue-rotate(20deg) brightness(.8) blur(1px) opacity(20%);

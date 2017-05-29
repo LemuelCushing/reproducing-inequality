@@ -199,20 +199,156 @@ VVV
 <p>The researcher notes that “African-Americans who seek to work as financial advisers may in fact encounter obstacles to acquiring wealthy clients that are not faced by their white counterparts.” One suggested remedy is for financial services firms to “proactively manage the distribution of productivity-enhancing resources so as to avoid reproducing institutionalized racism from the outside and perpetuating sources of racial bias arising from the inside.”</p> ---
 
 ---
-
+<!--.slide: data-background-image="./Pictures/1930sjobline.png" class="text-bg-bw"-->
 ### Double-Edged Exposure: Social Networking Sites, Job Searching and New Barriers to Employment
-#### Sharone Ofer (2013) MIT Sloan School of Management.
+#### Sharone Ofer (2013) MIT Sloan School of Management. <!--.element: style="color:white !important;"-->
+![](Pictures/1930sjobseeker.png) <!--.element: style="width: 200px; float: right;right:-50px;bottom:0px;z-index: 100;position: relative;"-->
+
 --
 <!--.slide: data-background-image="./Pictures/1930sagency2.png" class="text-bg-bw"-->
 
 ### The rise of Social Networking Sites
 
-<i class="fa fa-linkedin-square fa-5x fa-inverse fragment"></i> 
-<i class="fa fa-facebook-official fa-5x fa-inverse fragment"></i> 
+<i class="fa fa-linkedin-square fa-5x fa-inverse fragment"></i> <!--.element: style="float: left;left:-50px;z-index: 100;position: relative;vertical-align: middle"-->
+##### “The Internet is bringing radical <br> change to corporate recruiting” 
+<i class="fa fa-facebook-official fa-5x fa-inverse fragment"></i> <!--.element: style="float: right;right:-50px;z-index: 100;position: relative;vertical-align: middle"-->
 
 --
-<!--.slide: data-background-image="./Pictures/1930sagency.png" class="text-bg-bw"-->
+<!--.slide: data-background-image="./Pictures/1930sagency.png" class="text-bg-bw" style="text-align:center !important"-->
 
+<br>
+<br>
+<br>
+#### First wave: Online job boards 
+<br>
+<br>
+<br>
+#### Second wave: Online social networking sites 
+
+VVV
+
+שיעתוק של לוח המודעות המקומי
+
+A recent study suggests that even when applications are made using traditional resumes, in which a job seeker provides no links to social media, up to a third of U.S. firms nonetheless search online social networks for information about the applican
+
+--
+## Early optimism
+
+* Increased opportunities in a decreased cost
+* A level playing field, where the somatic divides will be cast aside
+
+VVV
+
+מניפסט הסייבורג
+
+Render the traditional socioeconomic markers invisible
+--
+
+### digital inequality: 
+
+Job seekers’ unequal access to digital technologies and various barriers to the effective use of these digital technologies.
+
+A dominant narrative has emerged 
+#### SNS empower job seekers
+
+VVV
+
+ואז צמחו מחקרים שהתמקדו באי השוויון בגישה
+
+מזכיר, אגב, את הפינימיזם הליברלי
+
+--
+
+### SNS as an active intermediary
+
+* A new terrain for competition with new forms of discipline
+
+VVV
+this focus has left unanswered critical questions about the effects of SNS as a labor market intermediary for the millions of active and technologically-capable SNS users.  
+
+הפוליטיקה של הארטיפקטים ושל התשתיתיות
+
+--
+
+### Method
+
+* In-depth interviews with unemployed job seekers using SNS
+* Participant-observations at workshops to train job seekers to use SNS
+
+--
+
+## Networking, Networking, Networking
+#### The promises of the new world
+
+* The sheer scale!  
+* No matter where you are
+* Every pot.. can find its lid!
+* No awkward niceties - its true _gesellschaft_
+* Invent yourself
+
+VVV
+
+The lure of the scale - everyone can! It's the land of opportunities
+
+"tell me who your friends are.." - so choose your friends!
+--
+
+## Double edged sword
+
+* Exposure of one's own image
+* The pressure to conform and the "one profile" dillema
+* Lack of control over the limits of you (synthetic) interaction
+* Presentation of the self in an unknown medium
+* The social-political self and the professional self
+
+VVV
+
+תמונה - מילולית. לדבר על אובדן האנונימיות של האינטרנט.
+נראה ואינו רואה - ניתוק מההקשר בו הדמות שלך נקראת
+פתח לאפלייה 
+
+איזומורפיזם 
+שוב, אובדן האנונימיות
+exposure disciplines
+
+כמו סלב - רק בלי היתרונות
+הצגת העצמי והסיטואציה
+קהל לא מתוכנן 
+בנוסף - 
+קונפורמיות מול הבלטות - אפשרויות פתוחות מול חוסר מיקוד
+
+הפורמט הטקסטואלי והנרטיבי
+אינספור המשמעויות - להזכיר את בקרדייבה
+
+איבוד הגבולות בין האישי והמקצועי. 
+
+--
+
+### A Global competition - Losers will lose    
+
+* Systematic exclusion of the _unemployed_ in favour of the _passive_ job seekers
+* Homogenization of the possible 
+* Dunbar number or The Monkey Sphere
+* A filtering mechanism whose inner workings are nigh-transcendental
+* New pressures on all workers to constantly manage their image 
+
+VVV
+
+
+fit the logic of the SNS-mediated labor market.  
+
+One-dimensionality 
+
+Algorithmic overlords
+
+--
+
+VVV
+
+This tudy finds that while job seekers perceive certain benefits to using SNS, the use of SNS also raises difficult strategic dilemmas and obstacles for job seekers.  At core, SNS increase the exposure of job seekers, but as the data presented in this paper will show, this exposure is double-edged.  The same visibility that makes it easier for job seekers to expand their networks and for employers to find and recruit them, also makes it easier for employers to classify, rank, compare, and screen out entire categories of job seekers.  The visibility of workers on SNS has wide ranging effects, such as employers seeing pictorial images or the political activities of job seekers early in the vetting process, or for reasons that will be described in this paper, disadvantaging workers who are generalists and do not have a clear and easy-to-categorize career, and workers whose work histories are not optimally presented in a reverse chronological format.  
+
+SNS intermediation of the labor market has two kinds of effects: 
+First, as a filtering mechanism for hiring, SNS produces labor market winners and losers involving processes that often have little to do with evaluations of merit.  Second, these new filtering mechanisms also exerts new pressures on all workers, whether winners or losers as perceived through this new filter, to manage their careers, and to some extent their private lives, in particular ways that 
 ---
 
 ### White normativity: The Cultural Dimensions of Whiteness in a Racially Diverse LGBT Organization
