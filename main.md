@@ -350,10 +350,124 @@ This tudy finds that while job seekers perceive certain benefits to using SNS, t
 SNS intermediation of the labor market has two kinds of effects: 
 First, as a filtering mechanism for hiring, SNS produces labor market winners and losers involving processes that often have little to do with evaluations of merit.  Second, these new filtering mechanisms also exerts new pressures on all workers, whether winners or losers as perceived through this new filter, to manage their careers, and to some extent their private lives, in particular ways that 
 ---
+<!--.slide: data-background-image="./Pictures/lbgtq.png" class="text-bg-clr"-->
+### **White normativity**: The Cultural Dimensions of Whiteness in a Racially Diverse LGBT Organization
+<br>
+<br>
+<br>
+<br>
+<br>
+#### Ward, Jane (2008) **Sociological Perspectives** 51(3): 563-586.
 
-### White normativity: The Cultural Dimensions of Whiteness in a Racially Diverse LGBT Organization
+--
+<!--.slide: data-background-image="./Pictures/1977parade.png" class="text-bg-bw"-->
+### The Center
 
-#### Ward, J. (2008) **Sociological Perspectives** 51(3): 563-586.
+![](Pictures/1977parade.png#cnt2)
+
+<div class="txt-overlay fragment "><span class="txt-overlay">
+Gay Pride Parade on Hollywood Blvd. in Los Angeles, 1977
+</span></div>
+--
+<!--.slide: data-background-image="./Pictures/1977parade.png" class="text-bg-bw"-->
+
+### The Center
+
+![](Pictures/the-center-la.png#cnt2) <!--.element: style="mix-blend-mode: multiply;float: right;right:-50px;z-index: 100;position: relative;"-->
+
+Establish in 1969. <br>
+The world's largest provider of programs and services for lesbian, gay, bisexual and transgender people
+
+--
+### Normativity
+
+“Conventional forms of association, belonging, and identification” {Halberstam, Judith. 2005. In a Queer Time and Place: Transgender Bodies, Subcultural Lives. New York: New York University Press.| 1}
+
+#### Inclusion doesn't mean equality
+
+* The unflinching strength of heteronormativity
+
+VVV
+
+the example of lesbian and gay inclusion in the unflinching strength of heteronormativity
+--
+
+### White Normativity
+
+"Bolsters and sustains other forms of normativity, such as middle-class or heterosexual norms that emphasize the pursuit of prosperity, safety, reproduction, and respectability". 
+* Ways of thinking, knowing, and doing that _naturalize whiteness_ and become **embedded** in social and institutional life.
+
+--
+### Whiteness in Organizations
+
+* "Organizations are gendered in relation to, but also apart from, the gendered bodies that inhabit them" {Acker, Joan. 1990. “Hierarchies, Jobs, and Bodies: A Theory of Gendered Organizations.” Gender & Society 4: 139–58.| 1}
+
+* "Norms are always racialized"
+
+Thus - 
+
+"even in racially diverse environments in which people of color are extended a degree of institutional power, **whiteness may still be a dominant ingredient** of the environment’s culture and a determinant of prevailing norms for communication and behavior."
+
+VVV
+
+Jane Ward investigates the function of race and whiteness in a racially diverse LGBT center in Los Angeles.
+--
+
+### White Hegemony 
+
+The broader culture “trickles down” into organizations, producing whiteness as the standard by which “normal” people,ideas, and practices are often measured, even within racially diverse organizations. 
+
+--
+### The implicit color of the average gay
+
+* The middle-class, normative gay archetype is one that is inherently white - and all the rest are immediately "**the rest**"
+
+While half of the staff at the center identified as people of color, the organization was viewed as a “white” center by members of the larger Los Angeles LGBT community.
+
+
+--
+
+### The corporate logic
+
+A “corporate” model of diversity which features events such as a “Diversity Day” and “Diversity Initiatives”, in which diversity isn't a byproduct true heterogeneity, but rather a **“means to an institutional end”**.
+
+"Diversity Day drew on familiar neoliberal values, including the notion that diversity was integral to both American identity and institutional prosperity" - but as such - it became a necessity, "an obligation of all employees, and a job duty."
+
+VVV
+
+ההגיון התאגידי מההיבט המעמדי 
+
+While this corporate model of diversity validates white experiences, it also validates the experience of the powerful and privileged over the oppressed. By adopting corporate practices that are associated with whiteness and the privileged middle class, the organization links itself to the “Normal Gay”
+
+--
+
+<blockquote>
+“The Center’s” white normativity was very well shown in its ‘diversity culture,” which spoke of ideas, knowledge claims, modes of affect, vocabularies, and approaches in the ethic of the workplace
+</blockquote>
+
+--
+
+White members proposed ideas that will “give face” to the organization, including working in neighborhoods of color and partnering with other LGBT organizations of color,
+
+While the members of color repeated the phrase **“just do it”** or **“just make it inclusive”**
+--
+### An empty banner
+
+#### Diversity alone has no **“intrinsic moral value.”**
+A true rationale for diversity and inclusion is needed. 
+
+
+VVV
+
+In “White Normativity: The Cultural Dimemsions of Whiteness in a Racially Diverse LGBT Organization,” Jane Ward investigates the function of race and whiteness in a racially diverse LGBT center in Los Angeles. To Ward, . This is evident in the way the LGBT community center in Los Angeles is racialized by its constituents. While half of the staff at the center identified as people of color, the organization was viewed as a “white” center by members of the larger Los Angeles LGBT community. 
+Ward argues that the perceived “whiteness” of the center was a result of an institutionalized form of white normalcy that privileged white experiences, and made staff and patrons of color as “the other”. Ward also suggests that these white normative practices are the result of (567). These events, Ward says, suggested that (573).
+
+Diversity Day at the center was criticized as being a practice that mostly benefited white employees, validated the experiences of white employees over those of color, and made inac curate generalizations about the cultures of non-white employees (573). More critically, Ward suggests that this type of programming emphasized the need for a rationale for diversity, implying that diversity alone has no “intrinsic moral value.” While Ward does not speak at length on class specifically, the corporate model she describes carries classed connotations. While this corporate model of diversity validates white experiences, it also validates the experience of the powerful and privileged over the oppressed. By adopting corporate practices that are associated with whiteness and the privileged middle class, the organization links itself to the “Normal Gay” described by Seidman. While this Normal Gay image can be useful in legitimizing the center as an institution, it also creates class and race alienation even within organizations that are racially diverse.
+
+Diversity tactics have become government policy in the past half-century, yet even as diverse a workplace can get, the tactics can still enable a white normative structure in organization (Ward 2008). Jane Ward (2008) depicts the white normativity of the Los Angeles Gay & Lesbian Center that overshadows the fifty-two percent staff of color. This white normative concept speaks of white ideology that conducts particular embedded norms on communication and behavior in a hierarchy of dominance (Ward 2008).  (Ward 2008). In efforts to expand diversity, members of the committee for these efforts differed by race on how to approach the issue (Ward 2008). 
+ (Ward 2008). The ideas from the members of color seemed impractical by white members and were even ignored at times, while the voice with real conception of diversity should have been understood with privilege (Ward 2008). The members of color on the committee argued that the Center should already be or already is “an organization of color” (Ward 2008). Whiteness even in minority majority setting has a rude depth that needs deconstructing in these especially LGBTQ+ spaces.
+
+despite this movement toward racial diversification, the Center still maintained a local reputation among queer people of color as “the white” LGBT organization in Los Angeles. As Jane has argued in her analysis of the Center (Ward, 2008b), to understand this apparent contradiction requires examination not only of whether – but also how and why – the Center had come to value and promote racial diversity. By most accounts, true diversity is measured by structural change, wherein organizations move beyond tokenism and include both a critical mass of people of color (and white women, queers, and the poor and working-class) at all levels of the organization. Yet as the case of the Center illustrates, structural change is not always the end of the story about intersectionality. During fieldwork and interviews, employees of color at the Center reported that although the organization's demographics and programs had changed for the better, the organization's culture was marked by an excessive focus on declaring its own racial diversity for funders and other organizations. The Center's constant promotion of its own diversity – a strategy brought to the organization by leaders (both whites and people of color) who drew on their previous corporate sector experience with diversity management and public relations – became the very practice that many employees of color identified as evidence of the “white corporate culture” of the organization. As in the corporate environment, diversification had indeed taken place at the Center, yet “diversity” (the word and the idea) had also become a normalizing force in the organization. It had become overused, empty, and “white.”
 
 ---
 

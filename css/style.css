@@ -62,6 +62,21 @@ section.text-bg-bw.present h5{
 section.text-bg-bw.present {
     color: white !important;
 }
+section.text-bg-clr.present h3{
+    color: white !important;
+}
+section.text-bg-clr.present h2{
+    color: white !important;
+}
+section.text-bg-clr.present h4{
+    color: white !important;
+}
+section.text-bg-clr.present h5{
+    color: white !important;
+}
+section.text-bg-clr.present {
+    color: white !important;
+}
 .slide-background.text-bg-txt.present {
     -webkit-filter: sepia(1) hue-rotate(2deg) brightness(.8) blur(1px);
     filter: sepia(1) hue-rotate(20deg) brightness(.8) blur(1px) opacity(20%);
@@ -71,4 +86,25 @@ section.text-bg-bw.present {
 .slide-background.text-bg-clr.present {
     -webkit-filter: sepia(0.3) brightness(.5);
     filter: sepia(0.3) brightness(.5);
+}
+
+div.txt-overlay {
+    z-index: 100 !important;
+    position: absolute !important;
+    color: white !important;
+    font-weight: bold !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 100px !important;
+    line-height: 50% !important;
+}
+
+span.txt-overlay {
+    background-color: rgba(0, 0, 0, .56);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 50%;
+    text-align: center;
 }
