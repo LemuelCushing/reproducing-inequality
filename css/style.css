@@ -47,8 +47,8 @@ img[src$='#cnt2'] {
     -webkit-filter: sepia(1) hue-rotate(2deg) brightness(.2);
     filter: sepia(1) hue-rotate(2deg) brightness(.2);
 }
-section.text-bg-txt.present{
-    /*color: white;*/
+section.text-bg-bw.present h3{
+    color: white !important;
 }
 .slide-background.text-bg-txt.present {
     -webkit-filter: sepia(1) hue-rotate(2deg) brightness(.8) blur(1px);
